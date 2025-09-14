@@ -9,10 +9,10 @@ I thought I was terminally online until I saw this. A blatant attempt to recreat
 charliesmurderers[.]com is cut from the same cloth. "A little PHP code can't hurt anyone" - KT. 
 In this case, the website was made with JS. This website represents a political agenda to depose educated individuals for exercising their first amendment right to free speech.
 
-But legality grey area and "for educational purposes" aside, it raises a bigger societial issue - anonymity in the face of a tyranical government, or even just the right to exercise your first amendment.
+But legality grey area and "for educational purposes" aside, it raises a bigger societial issue.
 
 Your opsec sucks. But truth be told, everyone's opsec sucks. 
-Thanks Mrs. R*** from school making everyone sign up for a g00gle account. You singlehandedly doomed our generation and potentially future generations from big tech data collection and oppression. Noah Michael Urban/kingbob/elijah, a previous Scattered Spider operative originating from HCF, was doxxed and his MC dox surfaced after his arrest. But I digress, that's a story on it's own and for another day.
+Thanks Mrs. R*** from school making everyone sign up for a g00gle account. You singlehandedly doomed our generation and potentially future generations from big tech data collection and oppression. Even black hats have shitty opsec. Noah Michael Urban/kingbob/elijah, a previous Scattered Spider operative originating from HCF, was doxxed and his MC dox surfaced after his arrest. But I digress, that's a story on it's own and for another day.
 
 Opsec is critical to operating in modern society. It's the core of your social identity. And yet, it's not taught in schools, or at least it wasn't taught to Gen Z and Gen Alpha. Millenials/Gen X/Boomers are lucky, they were taught to not put information that can publicly identify you on the internet. And yet, even some of that crowd has taken to give Facebook their address and phone number, for some reason (idk, maybe they like being sent pizzas at 3am).
 
