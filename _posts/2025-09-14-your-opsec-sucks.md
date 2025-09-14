@@ -19,7 +19,7 @@ Opsec is critical to operating in modern society. It's the core of your social i
 So you might be asking yourself - how do I make my opsec better? What even is opsec?
 
 Well, opsec is short for operational security. It's how red teamers describe total anonymity. Basically, don't post identifing shit on social media or any public forum. 
-Opsec IS personal identifying information. A name, a picture of you, an address, an email, a phone number. Anything that can identify you or where you live. Even so much as posting a picture of you in your neighborhood or backyard is damning. It's not difficult to extract metadata from a picture to find long/lat coordinates, or using overpass-turbo.eu/ to triangulate your location.
+Opsec IS personal identifying information. A name, a picture of you, an address, an email, a phone number. Anything that can identify you or where you live. Even so much as posting a picture of you in your neighborhood or backyard is damning. It's not difficult to extract metadata from a picture to find long/lat coordinates, or using overpass-turbo.eu to triangulate your location.
 
 As for making yourself better at opsec, you can probably start with these changes:
 - Start investing in a VPN. VPN your connection to your phone, your laptop, really anything with a wireless connection. I reccomend mullvad.net since you can send a cash check to them with no return address or pay with crypto, bypassing the need to record having a EMV transaction to purchase a VPN in the first place.
