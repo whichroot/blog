@@ -30,3 +30,5 @@ As for making yourself better at opsec, you can probably start with these change
 - KNOW YOUR RIGHTS. Certain states within the US and even outside the US certain countries have data privacy laws. If possible, send a GDPR/CCPA/VDCPA/etc. request to a website to remove your personal information. That can go a long way.
 
 Don't let the radicalized script kiddies win. Take control of your identity. You only get one at the end of the day, no redo's allowed (unless you order a new dust filter for your Hoover MaxExtract Pressure Pro Model 60). Cheers.
+
+-r00t3r_
