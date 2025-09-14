@@ -7,9 +7,9 @@ Recently I stumbled on the website charliesmurderers[.]com created by the X user
 I thought I was terminally online until I saw this. A blatant attempt to recreate doxbin for a political agenda. For those unaware, an anonymous user name KT created a clearnet site called doxbin. I'm not giving links to doxbin, you can find it on your own. You can kinda derive what purposes the site serves from the name alone. 
 
 charliesmurderers[.]com is cut from the same cloth. "A little PHP code can't hurt anyone" - KT. 
-In this case, the website was made with JS. This website represents a political agenda to depose educated individuals for exercising their first amendment right to free speech. Trust me, your information is already leaked in some russian database somewhere. It's not that serious.
+In this case, the website was made with JS. This website represents a political agenda to depose educated individuals for exercising their first amendment right to free speech.
 
-But legality grey area and "for educational purposes" aside, it raises a bigger issue.
+But legality grey area and "for educational purposes" aside, it raises a bigger societial issue - anonymity in the face of a tyranical government, or even just the right to exercise your first amendment.
 
 Your opsec sucks. But truth be told, everyone's opsec sucks. 
 Thanks Mrs. R*** from school making everyone sign up for a g00gle account. You singlehandedly doomed our generation and potentially future generations from big tech data collection and oppression. Noah Michael Urban/kingbob/elijah, a previous Scattered Spider operative originating from HCF, was doxxed and his MC dox surfaced after his arrest. But I digress, that's a story on it's own and for another day.
