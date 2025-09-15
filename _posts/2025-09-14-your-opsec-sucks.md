@@ -3,6 +3,7 @@ title: "your opsec sucks"
 date: 2025-09-14
 ---
 Recently I stumbled on the website charliesmurderers[.]com created by the X user [@]forcharliekirk1.
+EDIT: They changed domain names to be charliekirkdata[.]org. You can still submit privacy requests and get a lawyer involved to compel them to exclude your data under certain privacy regulations. Use this to your advantage and send them legal requests for request of removal of data.
 
 I thought I was terminally online until I saw this. A blatant attempt to recreate doxbin for a political agenda. For those unaware, an anonymous user name KT created a clearnet site called doxbin. I'm not giving links to doxbin, you can find it on your own. You can kinda derive what purposes the site serves from the name alone. 
 
@@ -31,5 +32,6 @@ As for making yourself better at opsec, you can probably start with these change
 - Signing up for services/websites puts your data in their hands. Don't overshare more than you need to. At the end of the day, when a company gets breached all they get is a slap on the wrist. The consequences of your data living on the internet forever is harrowing in comparison. 
 
 Don't let the radicalized script kiddies win. Take control of your identity. You only get one at the end of the day, no redo's allowed (unless you order a new dust filter for your Hoover MaxExtract Pressure Pro Model 60). Cheers.
+
 
 -r00t3r_
