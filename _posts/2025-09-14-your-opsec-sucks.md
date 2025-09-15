@@ -3,7 +3,6 @@ title: "your opsec sucks"
 date: 2025-09-14
 ---
 Recently I stumbled on the website charliesmurderers[.]com created by the X user [@]forcharliekirk1.
-EDIT: They changed domain names to be charliekirkdata[.]org. You can still submit privacy requests and get a lawyer involved to compel them to exclude your data under certain privacy regulations. Use this to your advantage and send them legal requests for request of removal of data.
 
 I thought I was terminally online until I saw this. A blatant attempt to recreate doxbin for a political agenda. For those unaware, an anonymous user name KT created a clearnet site called doxbin. I'm not giving links to doxbin, you can find it on your own. You can kinda derive what purposes the site serves from the name alone. 
 
