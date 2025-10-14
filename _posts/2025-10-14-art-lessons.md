@@ -1,6 +1,6 @@
 ---
 title: "art lessons"
-date: 2025-09-19
+date: 2025-10-14
 ---
 
 I often ponder what makes us unique as Americans. 
